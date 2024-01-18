@@ -11,4 +11,5 @@ fun main() {
     print(200)
     print(22.22)
     print("반갑네요")
+    print("츌력문은 항상 쓰이는 것 같습니다 ㅎㅎ")
 }
