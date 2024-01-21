@@ -14,6 +14,8 @@
 2. 주석 처리 설명 - Kotlin02_Comment
 3. 표준 출력 - Kotlin03_Print
 4. 세미 콜론 설명 - Kotlin04_SemiColon
+5. 리터럴 설명 - Kotlin05_Literal
+6. 자료형 설명 - Kotlin06_DataType
 
 ### 예제 설명
 1. Example01 - 키보드로부터 입력 받아 출력하는 프로그램
