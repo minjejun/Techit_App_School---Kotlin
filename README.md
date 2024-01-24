@@ -18,6 +18,9 @@
 6. 자료형 설명 - Kotlin06_DataType
 7. 변수 설명 - Kotlin07_Variable
 8. 함수 설명 - Koltin08_Function
+9. 연산자 설명 - Kotlin09_Operland
+10. IF문 설명 - Kotlin10_IF
+
 
 ### 예제 설명
 1. Example01 - 키보드로부터 입력 받아 출력하는 프로그램
