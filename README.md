@@ -20,6 +20,8 @@
 8. 함수 설명 - Koltin08_Function
 9. 연산자 설명 - Kotlin09_Operland
 10. IF문 설명 - Kotlin10_IF
+11. When문 설명 - Kotlin11_When
+12. 반복문 설명 - Kotlin12_Loop
 
 
 ### 예제 설명
