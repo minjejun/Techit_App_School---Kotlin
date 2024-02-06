@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43fac11c-c128-4029-bb33-a524a0392b1d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Example01/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example02/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example03/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example04/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example05/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin05_Literal/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin06_DataType/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin07_Variable/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin08_Function/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin09_Operland/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin10_IF/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin11_When/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin12_Loop/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin13_BreakContinue/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin14_OOPBasic/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin15_Constructor/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin16_Inherit/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin17_Package/src/kr/co/lion/pkg1/TestClass1.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin17_Package/src/kr/co/lion/pkg1/TestClass2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin17_Package/src/kr/co/lion/pkg2/TestClass2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin17_Package/src/kr/co/lion/pkg3/TestClass3.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin17_Package/src/kr/co/lion/pkg3/TestClass4.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin17_Package/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin18_AccessModifier/SecondModule/SecondModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin18_AccessModifier/SecondModule/src/kr/co/lion/pkg2/TestFile3.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin18_AccessModifier/src/TestFile1.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin18_AccessModifier/src/kr/co/lion/pkg1/TestFile2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin18_AccessModifier/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin20_Lateinit/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin01_Hello/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin01_Hello/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin01_Hello/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin01_Hello/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin01_Hello/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin01_Hello/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin01_Hello/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin02_Comment/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin02_Comment/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin02_Comment/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin02_Comment/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin02_Comment/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin02_Comment/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin02_Comment/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin02_Comment/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin02_Comment/Kotlin02_Comment.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin02_Comment/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin03_Print/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin03_Print/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin03_Print/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin03_Print/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin03_Print/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin03_Print/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin03_Print/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin03_Print/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin03_Print/Kotlin03_Print.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin03_Print/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin04_SemiColon/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin04_SemiColon/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin04_SemiColon/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin04_SemiColon/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin04_SemiColon/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin04_SemiColon/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin04_SemiColon/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin04_SemiColon/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin04_SemiColon/Kotlin04_SemiColon.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin04_SemiColon/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin05_Literal/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin05_Literal/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin05_Literal/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin05_Literal/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin05_Literal/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin05_Literal/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin05_Literal/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin05_Literal/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin05_Literal/Kotlin05_Literal.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin05_Literal/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image-1.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2bzh8K7PBWEVnvVLcPtCVVWLtMt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43fac11c-c128-4029-bb33-a524a0392b1d" name="Changes" comment="" />
+      <created>1707223653596</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707223653596</updated>
+      <workItem from="1707223654632" duration="53000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
