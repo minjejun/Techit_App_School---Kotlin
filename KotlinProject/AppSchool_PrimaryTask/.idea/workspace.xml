@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="761b2b70-6e2a-4b59-bef2-c56a97c97ff8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Example01/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example02/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example03/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example04/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example05/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin02_Comment/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin03_Print/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin04_SemiColon/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin05_Literal/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin01_Hello/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin01_Hello/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin01_Hello/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin01_Hello/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin01_Hello/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin01_Hello/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin01_Hello/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin02_Comment/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin02_Comment/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin02_Comment/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin02_Comment/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin02_Comment/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin02_Comment/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin02_Comment/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin02_Comment/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin02_Comment/Kotlin02_Comment.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin02_Comment/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin03_Print/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin03_Print/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin03_Print/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin03_Print/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin03_Print/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin03_Print/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin03_Print/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin03_Print/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin03_Print/Kotlin03_Print.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin03_Print/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin04_SemiColon/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin04_SemiColon/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin04_SemiColon/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin04_SemiColon/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin04_SemiColon/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin04_SemiColon/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin04_SemiColon/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin04_SemiColon/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin04_SemiColon/Kotlin04_SemiColon.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin04_SemiColon/src/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin05_Literal/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin05_Literal/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin05_Literal/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin05_Literal/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin05_Literal/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin05_Literal/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin05_Literal/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin05_Literal/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin05_Literal/Kotlin05_Literal.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinConcepts/Kotlin05_Literal/src/main.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2ag3QIGu0DhMdOlX21sf0OMjSDj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Kotlin.MainKt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/minjejun/Developments/AppSchool_Kotlin/AppSchool_PrimaryTask&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-18.0.2-semeru-18.0.2-f644763e9732-f33d40d9" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="761b2b70-6e2a-4b59-bef2-c56a97c97ff8" name="Changes" comment="" />
+      <created>1704726377038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704726377038</updated>
+      <workItem from="1704726379617" duration="1524000" />
+      <workItem from="1704727919113" duration="1027000" />
+      <workItem from="1704758134733" duration="1727000" />
+      <workItem from="1704805265562" duration="5655000" />
+      <workItem from="1704844093625" duration="2983000" />
+      <workItem from="1704872093768" duration="2783000" />
+      <workItem from="1704874956929" duration="1457000" />
+      <workItem from="1704898157575" duration="512000" />
+      <workItem from="1704963246013" duration="421000" />
+      <workItem from="1704979371645" duration="4000" />
+      <workItem from="1707221497327" duration="9000" />
+      <workItem from="1707223338231" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
