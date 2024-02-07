@@ -9,6 +9,9 @@
 
 이 내용은 **Techit 멋쟁이사자처럼**과 **소프트캠퍼스**에서 공부하고 있음을 알립니다!
 
+<br>
+<br>
+
 ## 개념 설명 - KotlinConcept
 1. Kotlin01_Hello : Kotlin 시작 
 2. Kotlin02_Comment : 주석 처리 설명
@@ -62,6 +65,8 @@
 50. Kotlin50_ForEach : ForEach문 관련 설명
 51. Kotlin51_Exception : Exception 예외 관련 설명
 
+<br>
+<br>
 
 ## 예제 설명 - KotlinExamples
 1. Example01 : 키보드로부터 입력 받아 출력하는 프로그램
@@ -80,6 +85,9 @@
 14. Example14 : 객체 지향 프로그래밍과 상속관계로 동물원을 관리하는 프로그램
 15. Example15 : 객체 지향 프로그래밍, 상속관계, lateinit, Overriding, open 상속으로 운동부 학생들을 관리하는 프로그램
 16. Example16, 16_1 : 객체 지향 프로그래밍, 상속관계, lateinit, Overriding, open 상속으로 동물원을 관리하는 프로그램
+
+<br>
+<br>
 
 ## 미니 프로젝트 - KotlinProject
 1. AppSchool_PrimaryTask : MVC 패턴을 사용해, 자동차의 공통적인 특징과 승용차, 트럭, 전기자동차 각각의 특징과 행동들을 각각 나누어 객체 지향 프로그래밍, 상속 관계, lateinit, List, Overriding, open 상속으로 자동차를 관리하는 코틀린 미니 프로젝트.
